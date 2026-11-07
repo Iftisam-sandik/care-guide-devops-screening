@@ -1,0 +1,7 @@
+node_modules/
+health_log.txt
+.env
+.env.*
+!.env.example
+coverage/
+npm-debug.log*
